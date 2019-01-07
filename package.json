@@ -90,7 +90,9 @@
     "webpack-bundle-analyzer": "^2.9.0",
     "webpack-dev-middleware": "^1.12.0",
     "webpack-hot-middleware": "^2.20.0",
-    "webpack-merge": "^4.1.1"
+    "webpack-merge": "^4.1.1",
+    "truffle": "4.1.14",
+    "openzeppelin-solidity": "2.0.0",
   },
   "engines": {
     "node": ">= 4.0.0",
