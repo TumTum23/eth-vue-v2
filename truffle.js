@@ -27,7 +27,7 @@ engine.start(); // Required by the provider engine.
 module.exports = {
   networks: {
     ropsten: {
-      network_id: 3,    // Official ropsten network id
+      network_id: 5777,    // Official ropsten network id
       provider: engine, // Use the custom provider
       from: address,     // Use the address derived address
       gas: 4444444
